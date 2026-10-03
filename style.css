@@ -1,0 +1,20 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: brown;
+}
+
+h1 {
+    color: beige;
+}
+table{
+    margin: auto;width: 90%;
+    background-color: rgb(110, 110, 81);     
+}
+
+th{
+    color: aquamarine;
+}
+td{
+    border: 1px solid black;
+    padding: 12px;
+}
